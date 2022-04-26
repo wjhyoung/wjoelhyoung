@@ -7,19 +7,39 @@ body {
 h1 {
     margin: 0px;
     padding: 10px;
-    text-align: center;
+    text-align: left;
     color: #0D0D0D;
     font-size: 3em;
     font-weight: 400;
-    background-color: #F2F2F2;
+    /* background-color: #F2F2F2; */
 }
 
 .topNav {
     display: flex;
     flex-direction: column;
-    text-align: center;
-    margin: 10px;
+    text-align: left;
+    margin: 0px;
+    padding: 10px;
+    font-style: italic;
+
+}
+
+.bottomNav {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0px;
     padding: 10px;
 }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+    width: 98%;
+    margin: 2px;
+    padding: 2px;
+}
+
+.index-link {}
 
 /* } */
