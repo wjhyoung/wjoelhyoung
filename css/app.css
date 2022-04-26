@@ -32,6 +32,15 @@ h1 {
     padding: 10px;
 }
 
+.bio {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0px;
+    padding: 10px;
+
+}
+
 img.center {
     display: block;
     margin: 0 auto;
