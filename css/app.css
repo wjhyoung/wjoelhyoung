@@ -1,3 +1,7 @@
+html {
+    background-color: #F0FFF9;
+}
+
 body {
     font-family: DIN Next W01, Arial, Helvetica Neue, helvetica, sans-serif;
 }
@@ -31,11 +35,11 @@ a {
 }
 
 a:link {
-    color: #5061E1;
+    color: #030307;
 }
 
 a:visited {
-    color: #5061E1;
+    color: #030307;
 }
 
 a:focus {
